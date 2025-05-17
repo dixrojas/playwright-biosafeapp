@@ -1,0 +1,22 @@
+{
+  "name": "playwright-biosafeapp",
+  "version": "1.0.0",
+  "description": "Este repositorio se basa en la automatizacion de escenaarios para la aplicacion biosafeapp",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dixrojas/playwright-biosafeapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dixrojas/playwright-biosafeapp/issues"
+  },
+  "homepage": "https://github.com/dixrojas/playwright-biosafeapp#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.18"
+  }
+}
